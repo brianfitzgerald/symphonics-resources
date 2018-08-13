@@ -20,10 +20,10 @@ To make a custom instrument:
 
 1. Create or find an MP3 or WAV file. There is no length limit. But you might not want to import a podcast episode, since the audio will be loaded into memory on each strike.
 2. Rename the file to what the name of the instrument should be, i.e., `Piano.mp3`.
-3. Place the sound file in your custom sounds directory, which is `C:\Users\coold\AppData\LocalLow\Valve\SteamVR\saves`.
+3. Place the sound file in your custom sounds directory, which is `C:\Users\{your username}\AppData\LocalLow\Valve\SteamVR\saves`.
 
 To make a custom intrument with multiple notes:
 
 1. Create or find a number of MP3/WAV files for each note you want.
 2. Rename them with the following convention: `{instrumentName}%{note}`. So, for example `Piano%C3.mp3`.
-3. Add them to the custom notes folder, which is in `C:\Users\coold\AppData\LocalLow\Valve\SteamVR\saves`.
+3. Add them to the custom notes folder, which is in `C:\Users\{your username}\AppData\LocalLow\Valve\SteamVR\saves`.
